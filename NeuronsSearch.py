@@ -1,3 +1,6 @@
+#Developed by Bernabe Garcia Javier and Maldonado Lozano Juan Carlos
+#Fall 2021
+
 import pandas as pd
 import warnings
 from sklearn.exceptions import ConvergenceWarning
